@@ -1,0 +1,10 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+video{
+    width: 100vw;
+    height: 50vw;
+
+}
